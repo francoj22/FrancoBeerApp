@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FrancoBeerApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="description_default">no description yep</string>
+    <string name="title">Hello, I hope you are having a wonderful day</string>
+</resources>
